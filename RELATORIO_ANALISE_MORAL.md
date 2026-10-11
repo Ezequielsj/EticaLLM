@@ -179,3 +179,21 @@ A conclusão mais segura é que os dois sistemas exibiram padrões de resposta
 distintos neste conjunto de dilemas. O estudo deve ser apresentado como uma
 análise exploratória, e não como uma medição definitiva da orientação moral
 dos modelos.
+
+## 9. Referências bibliográficas
+
+Christensen, J. F., Flexas, A., Calabrese, M., Gut, N. K., & Gomila, A.
+(2014). *Moral judgment reloaded: A moral dilemma validation study*.
+**Frontiers in Psychology, 5**, 607.
+https://doi.org/10.3389/fpsyg.2014.00607
+
+Frontiers in Psychology. (2014). *Moral judgment reloaded: A moral dilemma
+validation study — supplementary material: Dilemmas English*.
+https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00607/full
+
+Google. (s.d.). *Gemini API documentation: Generate content*. Google AI for
+Developers. https://ai.google.dev/gemini-api/docs
+
+Ezequielsj. (2026). *EticaLLM: Experimento comparativo de julgamentos morais
+por modelos de linguagem* [Repositório de código e dados].
+https://github.com/Ezequielsj/EticaLLM
