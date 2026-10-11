@@ -1,5 +1,7 @@
 # Comparação de julgamentos morais por dois modelos de linguagem
 
+Repositório do projeto: [github.com/Ezequielsj/EticaLLM](https://github.com/Ezequielsj/EticaLLM)
+
 ## 1. Objetivo
 
 Este relatório compara as respostas de dois modelos de linguagem aos 52
@@ -177,4 +179,3 @@ A conclusão mais segura é que os dois sistemas exibiram padrões de resposta
 distintos neste conjunto de dilemas. O estudo deve ser apresentado como uma
 análise exploratória, e não como uma medição definitiva da orientação moral
 dos modelos.
-
